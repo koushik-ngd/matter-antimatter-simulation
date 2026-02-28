@@ -1,5 +1,5 @@
 
-Matter-Antimatter Particle Simulation
+# Matter-Antimatter Particle Simulation
 A real-time particle physics simulation built with Python and Pygame that models matter and antimatter collisions, annihilation events and energy conversion using E = mc2.
 What it simulates
 
@@ -31,9 +31,3 @@ Python
 Pygame
 
 
-To add it:
-
-In your project folder, create a new file called README.md
-Paste that in
-Save it
-Then run git add . and git commit -m "add README" and git push in your terminal
